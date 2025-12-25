@@ -1,0 +1,5 @@
+varHM=np.var(d1)
+varLM=np.var(d2)
+desvHM=np.sqrt(varHM)
+desvLM=np.sqrt(varLM)
+desvHM, desvLM
